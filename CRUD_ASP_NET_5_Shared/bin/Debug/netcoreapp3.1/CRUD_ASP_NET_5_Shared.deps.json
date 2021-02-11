@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CRUD_ASP_NET_5_Shared/1.0.0": {
+        "runtime": {
+          "CRUD_ASP_NET_5_Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CRUD_ASP_NET_5_Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

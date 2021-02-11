@@ -1,0 +1,12 @@
+C:\Projetos\CRUD_ASP_NET_5\CRUD_ASP_NET_5_Data\bin\Debug\netcoreapp3.1\CRUD_ASP_NET_5_Shared.dll
+C:\Projetos\CRUD_ASP_NET_5\CRUD_ASP_NET_5_Data\obj\Debug\netcoreapp3.1\CRUD_ASP_NET_5_Data.csprojAssemblyReference.cache
+C:\Projetos\CRUD_ASP_NET_5\CRUD_ASP_NET_5_Data\obj\Debug\netcoreapp3.1\CRUD_ASP_NET_5_Data.AssemblyInfoInputs.cache
+C:\Projetos\CRUD_ASP_NET_5\CRUD_ASP_NET_5_Data\obj\Debug\netcoreapp3.1\CRUD_ASP_NET_5_Data.AssemblyInfo.cs
+C:\Projetos\CRUD_ASP_NET_5\CRUD_ASP_NET_5_Data\bin\Debug\netcoreapp3.1\CRUD_ASP_NET_5_Data.deps.json
+C:\Projetos\CRUD_ASP_NET_5\CRUD_ASP_NET_5_Data\bin\Debug\netcoreapp3.1\CRUD_ASP_NET_5_Data.dll
+C:\Projetos\CRUD_ASP_NET_5\CRUD_ASP_NET_5_Data\bin\Debug\netcoreapp3.1\CRUD_ASP_NET_5_Data.pdb
+C:\Projetos\CRUD_ASP_NET_5\CRUD_ASP_NET_5_Data\bin\Debug\netcoreapp3.1\CRUD_ASP_NET_5_Shared.pdb
+C:\Projetos\CRUD_ASP_NET_5\CRUD_ASP_NET_5_Data\obj\Debug\netcoreapp3.1\CRUD_ASP_NET_5_Data.csproj.CoreCompileInputs.cache
+C:\Projetos\CRUD_ASP_NET_5\CRUD_ASP_NET_5_Data\obj\Debug\netcoreapp3.1\CRUD_ASP_NET_5_Data.csproj.CopyComplete
+C:\Projetos\CRUD_ASP_NET_5\CRUD_ASP_NET_5_Data\obj\Debug\netcoreapp3.1\CRUD_ASP_NET_5_Data.dll
+C:\Projetos\CRUD_ASP_NET_5\CRUD_ASP_NET_5_Data\obj\Debug\netcoreapp3.1\CRUD_ASP_NET_5_Data.pdb
